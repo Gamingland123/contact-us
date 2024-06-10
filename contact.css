@@ -1,0 +1,44 @@
+body{
+    padding: 0; background-image: url(jbareham_201201_ecl1050_goty_2020_top_50_02.0.jpg); 
+    margin: 0; background-repeat: no-repeat;background-size: 1600px  340px; margin-top: 2cm;} 
+    ul{
+       list-style-type: none;
+       background-color:#210e0e;background-position: top; margin-bottom: -3cm;
+       color: white; margin: 0px; border-radius: 3cm; border-style:double; border-color: greenyellow;margin-top: 2cm; height: 57px;}
+    ul li{
+     display: inline-block; padding: 30px; transition: 0.2s; margin-left: 50px; margin-top: -0.22cm;
+    }
+   ul li button{
+background-color: blueviolet; height:35px;margin-top: -35px; width: 100px;font-size: larger; color: white; transition-duration: 0.4s;
+transition-property: all;
+   }
+   ul li button:hover{
+background-color: aquamarine; border-radius: 20px; color: black;
+   }
+    ul li:hover .dropdown{
+    display: block; position: absolute;margin-left: -0.6cm;margin-top: 0.55cm; 
+    }
+    .back{
+        height: 400px; width: 1340px; background-image: url(1000_F_323880864_TPsH5ropjEBo1ViILJmcFHJqsBzorxUB.jpg); background-size: 1340px 400px; display: flex;align-items: center;
+    }
+    .main{
+       margin-left: -8cm;
+    }
+    .my{
+        background-color: aliceblue;height: 400px;width: 700px; text-align: center; margin-top: -10.6cm; margin-left: auto;margin-right: auto;align-items: center;border: 0.5px solid black; font-size: larger;text-decoration:underline ;
+    }
+    .my p{
+        text-transform: uppercase; font-size: large;font-style: italic;font-family: cursive;
+    }
+    .side{
+        width: 445px; height: 394px;float: right; background-color:green;  box-shadow: 5px; margin-top: -10.6cm;border: 0.1cm black solid; color: goldenrod;
+    }
+    .side img{
+        width: 122px; height: 80px; float: left;
+    }
+    .side h2{
+        text-align: center; text-transform: uppercase; text-decoration: solid; text-decoration: underline; color: white;
+    }
+    .side h2 a{
+color: royalblue; text-transform: capitalize;
+    }
